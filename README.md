@@ -8,3 +8,7 @@ image | longtext ||
 
 
 Fill the config file.
+
+Make directory uploads and users.json file in main directory.
+
+
