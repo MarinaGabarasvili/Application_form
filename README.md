@@ -6,4 +6,5 @@ fullname	  varchar(100)
 birth_date	varchar(100)	
 image	      longtext	
 
+
 Fill the config file.
