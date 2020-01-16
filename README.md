@@ -1,5 +1,5 @@
 # Application_form
-Before running the programm connect to MySQL, make DB and table with fields.
+Before running the program, connect to MySQL, make DB and table with fields.
 
 id | int(10) | PK Auto Increment || 
 fullname | varchar(100)	||
@@ -9,6 +9,6 @@ image | longtext ||
 
 Fill the config file.
 
-Make directory uploads and users.json file in main directory.
+Make uploads directory and users.json file in main program directory.
 
 
